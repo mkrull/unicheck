@@ -1,0 +1,16 @@
+[submodule "Uninets-Check"]
+	path = Uninets-Check
+	url = git@github.com:uninets/Uninets-Check.git
+
+[submodule "Uninets-Check-Modules-HTTP"]
+	path = Uninets-Check-Modules-HTTP
+	url = git@github.com:uninets/Uninets-Check-Modules-HTTP.git
+
+[submodule "Uninets-Check-Modules-MongoDB"]
+	path = Uninets-Check-Modules-MongoDB
+	url = git@github.com:uninets/Uninets-Check-Modules-MongoDB.git
+
+[submodule "Uninets-Check-Modules-Redis"]
+	path = Uninets-Check-Modules-Redis
+	url = git@github.com:uninets/Uninets-Check-Modules-Redis.git
+
