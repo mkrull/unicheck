@@ -1,20 +1,20 @@
-[submodule "Uninets-Check"]
-	path = Uninets-Check
-	url = git@github.com:uninets/Uninets-Check.git
+[submodule "App-Unicheck"]
+	path = App-Unicheck
+	url = git@github.com:uninets/App-Unicheck.git
 
-[submodule "Uninets-Check-Modules-HTTP"]
-	path = Uninets-Check-Modules-HTTP
-	url = git@github.com:uninets/Uninets-Check-Modules-HTTP.git
+[submodule "App-Unicheck-Modules-HTTP"]
+	path = App-Unicheck-Modules-HTTP
+	url = git@github.com:uninets/App-Unicheck-Modules-HTTP.git
 
-[submodule "Uninets-Check-Modules-MongoDB"]
-	path = Uninets-Check-Modules-MongoDB
-	url = git@github.com:uninets/Uninets-Check-Modules-MongoDB.git
+[submodule "App-Unicheck-Modules-MongoDB"]
+	path = App-Unicheck-Modules-MongoDB
+	url = git@github.com:uninets/App-Unicheck-Modules-MongoDB.git
 
-[submodule "Uninets-Check-Modules-Redis"]
-	path = Uninets-Check-Modules-Redis
-	url = git@github.com:uninets/Uninets-Check-Modules-Redis.git
+[submodule "App-Unicheck-Modules-Redis"]
+	path = App-Unicheck-Modules-Redis
+	url = git@github.com:uninets/App-Unicheck-Modules-Redis.git
 
-[submodule "Uninets-Check-Modules-File"]
-	path = Uninets-Check-Modules-File
-	url = git@github.com:uninets/Uninets-Check-Modules-File.git
+[submodule "App-Unicheck-Modules-File"]
+	path = App-Unicheck-Modules-File
+	url = git@github.com:uninets/App-Unicheck-Modules-File.git
 
