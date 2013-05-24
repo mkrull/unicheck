@@ -18,3 +18,7 @@
 	path = App-Unicheck-Modules-File
 	url = git@github.com:uninets/App-Unicheck-Modules-File.git
 
+[submodule "Bundle-Unicheck"]
+	path = Bundle-Unicheck
+	url = git@github.com:uninets/Bundle-Unicheck.git
+

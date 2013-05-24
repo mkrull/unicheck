@@ -1,0 +1,27 @@
+#!/bin/bash
+
+PROJECTS=(
+    'Bundle-Unicheck'
+    'App-Unicheck'
+    'App-Unicheck-Modules-HTTP'
+    'App-Unicheck-Modules-Redis'
+    'App-Unicheck-Modules-MongoDB'
+)
+
+if [[ ! -d dists ]]
+then
+    mkdir dists
+fi
+
+for project in ${PROJECTS[@]}
+do
+    cd $project
+    perl Build.PL
+    ./Build dist
+    cp *.tar.gz ../dists/
+    ./Build clean
+    cd ..
+done
+
+exit 0
+
