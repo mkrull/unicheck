@@ -6,6 +6,7 @@ PROJECTS=(
     'App-Unicheck-Modules-HTTP'
     'App-Unicheck-Modules-Redis'
     'App-Unicheck-Modules-MongoDB'
+    'App-Unicheck-Modules-MySQL'
 )
 
 if [[ ! -d dists ]]
