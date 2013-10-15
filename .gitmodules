@@ -1,28 +1,28 @@
 [submodule "App-Unicheck"]
 	path = App-Unicheck
-	url = git@github.com:uninets/App-Unicheck.git
+	url = https://github.com/mkrull/App-Unicheck.git
 
 [submodule "App-Unicheck-Modules-HTTP"]
 	path = App-Unicheck-Modules-HTTP
-	url = git@github.com:uninets/App-Unicheck-Modules-HTTP.git
+	url = https://github.com/mkrull/App-Unicheck-Modules-HTTP.git
 
 [submodule "App-Unicheck-Modules-MongoDB"]
 	path = App-Unicheck-Modules-MongoDB
-	url = git@github.com:uninets/App-Unicheck-Modules-MongoDB.git
+	url = https://github.com/mkrull/App-Unicheck-Modules-MongoDB.git
 
 [submodule "App-Unicheck-Modules-MySQL"]
 	path = App-Unicheck-Modules-MySQL
-	url = git@github.com:mkrull/App-Unicheck-Modules-MySQL.git
+	url = https://github.com:mkrull/App-Unicheck-Modules-MySQL.git
 
 [submodule "App-Unicheck-Modules-Redis"]
 	path = App-Unicheck-Modules-Redis
-	url = git@github.com:uninets/App-Unicheck-Modules-Redis.git
+	url = https://github.com/mkrull/App-Unicheck-Modules-Redis.git
 
 [submodule "App-Unicheck-Modules-File"]
 	path = App-Unicheck-Modules-File
-	url = git@github.com:uninets/App-Unicheck-Modules-File.git
+	url = https://github.com/mkrull/App-Unicheck-Modules-File.git
 
 [submodule "Bundle-Unicheck"]
 	path = Bundle-Unicheck
-	url = git@github.com:uninets/Bundle-Unicheck.git
+	url = https://github.com/mkrull/Bundle-Unicheck.git
 
