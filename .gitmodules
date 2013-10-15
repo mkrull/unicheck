@@ -10,6 +10,10 @@
 	path = App-Unicheck-Modules-MongoDB
 	url = git@github.com:uninets/App-Unicheck-Modules-MongoDB.git
 
+[submodule "App-Unicheck-Modules-MySQL"]
+	path = App-Unicheck-Modules-MySQL
+	url = git@github.com:mkrull/App-Unicheck-Modules-MySQL.git
+
 [submodule "App-Unicheck-Modules-Redis"]
 	path = App-Unicheck-Modules-Redis
 	url = git@github.com:uninets/App-Unicheck-Modules-Redis.git
